@@ -1,0 +1,45 @@
+body{
+    background-color: #eee;
+}
+
+
+ul {
+    background-color: #ddd;
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+    li {
+        width: 60px;
+        height: 60px;
+        border: 2px solid transparent;
+        opacity: 0.4;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    li.active,li:hover {
+        opacity: 1;
+    }
+    li:first-child {
+        background-color: red;
+    }
+    li:nth-child(2) {
+        background-color: green;
+    }
+    li:nth-child(3) {
+        background-color: blue;
+    }
+    li:nth-child(4) {
+        background-color: black;
+    }
+}
+
+.experiment {
+    background-color: red;
+    width: 600px;
+    height: 300px;
+    margin: 20px auto;
+}
