@@ -5,6 +5,7 @@ let exp = document.querySelector('.experiment')
 
 if (window.localStorage.getItem('color')) {
     exp.style.backgroundColor = window.localStorage.getItem('color')
+    document.querySelector('body').style.backgroundColor = window.localStorage.getItem('color')
         lis.forEach((li) =>{
             li.classList.remove('active');
         })
@@ -20,6 +21,7 @@ lis.forEach((li)=>{
         })
         e.currentTarget.classList.add('active')
         window.localStorage.setItem('color', e.currentTarget.dataset.color)
+        document.querySelector('body').style.backgroundColor = window.localStorage.getItem('color')
         exp.style.backgroundColor = e.currentTarget.dataset.color
     })
 })
