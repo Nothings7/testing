@@ -1,7 +1,8 @@
-<div align="center">
-<h1>
-Testing
-</h1>
-<img src="./assets/try.jpg" alt="try" width="50" />
-</div>
-well this is for the second time lets gooo!
+<p align="center">
+<img width=100 src="./assets/try.jpg"/>
+
+</p></a>
+<p align="center">
+  <strong>its only for testing</strong>
+</p>
+
