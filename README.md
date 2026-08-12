@@ -8,7 +8,7 @@
 
 # Some stuff i need to finish it
 
-- [x] `Set, Map And Methods`
+- [ ] `Set, Map And Methods`
 - [ ] `Expression`
 - [ ] `OOP`
 - [ ] `Data and Time`
