@@ -6,3 +6,11 @@
   <strong>its only for testing</strong>
 </p>
 
+# Some stuff i need to finish it
+
+[x] Set, Map And Methods
+[] Expression
+[] OOP
+[] Data and Time
+[] Json
+[] CallBack, Promise, Async
