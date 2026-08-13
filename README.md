@@ -3,13 +3,13 @@
     <img src="./assets/try.jpg" alt="Project Logo" width="120" style="border-radius: 50%;" />
   </a>
   <br />
+    <p><sub><i>This repository is dedicated to testing concepts and tracking personal learning progress.</i></sub></p>
   <br />
-  <a href="https://github.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
   </a>
   <img src="https://img.shields.io/badge/Purpose-Testing_Only-blue?style=for-the-badge" alt="Purpose" />
 
-  <p><sub><i>This repository is dedicated to testing concepts and tracking personal learning progress.</i></sub></p>
 </div>
 
 <br />
