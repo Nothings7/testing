@@ -1,0 +1,11 @@
+
+*.html linguist-vendored
+**/*.html linguist-vendored
+*.css linguist-vendored
+*.scss linguist-vendored
+**/*.css linguist-vendored
+**/*.scss linguist-vendored
+
+assets/* linguist-vendored
+
+*.js linguist-language=JavaScript
