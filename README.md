@@ -3,7 +3,7 @@
     <img src="./assets/try.jpg" alt="Project Logo" width="120" style="border-radius: 50%;" />
   </a>
   <br />
-    <p><em><i>Project for Testing & Learning Purposes</i></em></p>
+    <p><strong>Project for Testing & Learning Purposes</strong></p>
   <br />
   <a href="#">
     <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
