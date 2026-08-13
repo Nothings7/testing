@@ -8,7 +8,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
   </a>
+  <a href="#">
   <img src="https://img.shields.io/badge/Purpose-Testing_Only-blue?style=for-the-badge" alt="Purpose" />
+  </a>
 
 </div>
 
